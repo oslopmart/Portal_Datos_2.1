@@ -54,5 +54,3 @@ namespace PortalDatos.BL
         }
     }
 }
-    
-
